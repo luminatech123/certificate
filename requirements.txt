@@ -1,0 +1,2 @@
+streamlit==1.25.0  # Adjust to the latest compatible version for your project
+pillow==10.0.1     # This version supports Python 3.10+
